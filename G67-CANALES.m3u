@@ -1,0 +1,121 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://gamesentretenimiento.ml/LOGo.png",CREADOR G67
+http://gamesentretenimiento.ml/LOGo.png
+#EXTINF:-1 tvg-logo="http://gamesentretenimiento.ml/gratis1.png",LISTA GRATIS
+http://gamesentretenimiento.ml/LOGo.png
+
+
+#EXTINF:-1,AZTECA PLUS
+http://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/index_1_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,TDN
+http://stdephds-lh.akamaihd.net/i/ad3pst02hds_1@335205/master.m3u8
+
+#EXTINF:-1,Los Simpson 24/7
+http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,Gravity Falls
+http://stream.latino-webtv.com/series/gravityfalls.mp4
+
+#EXTINF:-1,FX
+http://209.126.116.177:2086/207FXLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1,Discovery Channel
+http://209.126.116.177:2086/402discoverychannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1,Cartoon Network
+http://209.126.116.177:2086/307CartoonNetwork/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+ 
+#EXTINF:-1,Disney Junior
+http://live.tvplayerlatino.com/streaming/src1/BOgKm?58afba
+
+#EXTINF:-1,SYFY
+http://209.126.116.177:2086/204SyFyLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+ 
+#EXTINF:-1,SYFY Latino
+http://209.126.116.177:2086/204SyFyLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1,Universal
+http://209.126.116.177:2086/206Studio/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+ 
+#EXTINF:-1,Warner
+http://209.126.116.177:2086/210WarnerChannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1,Las Estrellas
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+
+#EXTINF:1,Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:1,Las Estrellas Latinoamerica
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,Animal Planet
+http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/373.flv
+
+#EXTINF:-1,Edge
+http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/436.flv
+
+#EXTINF:-1,Discovery Channel
+http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/371.flv
+
+#EXTINF:-1 ,Universal Channel
+http://209.126.116.177:2086/203Universal/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1,AZTECA 13
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_1_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,Foro TV
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
+
+#EXTINF:-1,Milenio
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+
+#EXTINF:-1, RT Español [HD]
+http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index.m3u8
+
+#EXTINF:-1,Todo Deportes
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,Telemusica HD
+http://186.155.200.118:1935/live/telemusica/chunklist_w1713664263.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,ANTENA 3
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
+ 
+#EXTINF:-1,America Tv
+http://cdn-zc-lsd-3.planisys.net:1935/TV9/smil:tv9live.smil/master.m3u8 
+ 
+#EXTINF:-1,Rock Nacional TV
+http://stmv4.questreaming.com/questreaming/questreaming/playlist.m3u8
+
+#EXTINF:-1,TV Más
+http://50.7.98.234:1935/rtv/videortv/playlist.m3u
+ 
+#EXTINF:-1,Unicanal
+http://strm.unicanal.com.py/live/unicanal_src.m3u8
+ 
+#EXTINF:-1,Euronews Español
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/24-live.m3u8
+ 
+#EXTINF:-1,Canal Claro
+http://canalclaro-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(CANAL_CLARO)/index.m3u8
+
+#EXTINF:-1,POWER HD
+http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
+
+#EXTINF:-1,UNI TV
+http://strm.unicanal.com.py/live/unicanal.m3u8
+
+#EXTINF:-1,TELERED
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+ 
+#EXTINF:0,DBZ 3
+https://goo.gl/ZRtTlr
+ 
+#EXTINF:0, DBZ 4
+https://goo.gl/Ec6saq
+ 
+#EXTINF:0,DBZ 5
+https://goo.gl/nbDlGf
+ 
