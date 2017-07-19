@@ -5,6 +5,21 @@ http://gamesentretenimiento.ml/LOGo.png
 http://gamesentretenimiento.ml/LOGo.png
 
 
+#EXTINF:-1,DiscoveryH&H
+http://209.126.116.177:2086/215DiscoveryHH/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1,History
+http://209.126.116.177:2086/409history/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1,Natgeo
+http://209.126.116.177:2086/405Natgeo/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1,TNT Series
+http://209.126.116.177:2086/205TNTSE/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1,Disney XD
+http://23.237.22.2:8080/lstream4/107/14/654681644949e1a53be8493e2112723e/322.flv
+
 #EXTINF:-1,AZTECA PLUS
 https://goo.gl/N5zZqP
 
@@ -109,7 +124,10 @@ http://strm.unicanal.com.py/live/unicanal.m3u8
 
 #EXTINF:-1,TELERED
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
- 
+
+#EXTINF:-1,Disney Channel
+http://23.237.22.2:8080/lstream4/104/14/654681644949e1a53be8493e2112723e/312.flv
+
 #EXTINF:0,DBZ 3
 https://goo.gl/ZRtTlr
  
