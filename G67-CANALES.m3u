@@ -5,6 +5,9 @@ http://gamesentretenimiento.ml/LOGo.png
 http://gamesentretenimiento.ml/LOGo.png
 
 
+#EXTINF:-1,Azteca+ Plus
+http://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/master.m3u8
+
 #EXTINF:-1,FOX
 http://ryuk.onetvgratis.com/lstream4/get/infinity/ship/251.flv
 
@@ -37,6 +40,10 @@ https://goo.gl/N5zZqP
 
 #EXTINF:-1,TDN
 http://stdephds-lh.akamaihd.net/i/ad3pst02hds_1@335205/master.m3u8
+
+#EXTINF:-1,Directv Sports 
+https://live92.vkuserlive.com/613504/live/0xhZ4rlAf6VMS1EW/playlist.m3u8
+
 
 #EXTINF:-1,Los Simpson 24/7
 http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8?iptvgratis?chile.m3u8
@@ -145,15 +152,6 @@ http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
 
 #EXTINF:-1,Disney Channel
 http://23.237.22.2:8080/lstream4/104/14/654681644949e1a53be8493e2112723e/312.flv
-
-#EXTINF:0,DBZ 3
-https://goo.gl/ZRtTlr
- 
-#EXTINF:0, DBZ 4
-https://goo.gl/Ec6saq
- 
-#EXTINF:0,DBZ 5
-https://goo.gl/nbDlGf
 
 #EXTINF:-1 tvg-logo="http://gamesentretenimiento.ml/LOGo.png",CREADOR G67
 http://gamesentretenimiento.ml/LOGo.png
