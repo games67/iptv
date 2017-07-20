@@ -8,149 +8,146 @@ http://gamesentretenimiento.ml/LOGo.png
 #EXTINF:-1,Azteca+ Plus
 http://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/master.m3u8
 
-#EXTINF:-1,FOX
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-zHueLzhpkzc/UFcjuqZ4jAI/AAAAAAAAN4I/N01Reruy8g0/s1600/canal_fox_cl.png",FOX
 http://ryuk.onetvgratis.com/lstream4/get/infinity/ship/251.flv
 
-#EXTINF:-1,FOX Movies HD Latino 
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-6hvMreuIaMI/VTVJUWU3wRI/AAAAAAAAH9c/dMx3Eqb-fOk/s1600/Fox%2BMovies-Live.png",FOX Movies HD Latino 
 http://ryuk.onetvgratis.com/lstream4/get/infinity/ship/417.flv
 
-#EXTINF:-1,Nickelodeon
+#EXTINF:-1 tvg-logo="http://static.elmeme.me/static/uploads/images/2013/11/18438/18504_subitem_full.png",Nickelodeon
 http://ryuk.onetvgratis.com/lstream4/get/infinity/ship/317.flv
 
-#EXTINF:-1,TNT
+#EXTINF:-1 tvg-logo="http://www.canaltnt.es/dynamic/channel/00000000/12/d9faae6d68fe0b8a80f646e286157db1135cc2ac_1461934546.png",TNT
 http://ryuk.onetvgratis.com/lstream4/get/infinity/ship/435.flv
 
-#EXTINF:-1,DiscoveryH&H
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-e7U-6TeiJwo/TdRHH69VEBI/AAAAAAAABYc/1k7NVJGn8B0/s320/Discovery+Home+%2526+Health+icon+2011.png",DiscoveryH&H
 http://209.126.116.177:2086/215DiscoveryHH/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 
-#EXTINF:-1,History
+#EXTINF:-1 tvg-logo="http://www.lamac.org/res/channels/logos/_0019_History.png",History
 http://209.126.116.177:2086/409history/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 
-#EXTINF:-1,Natgeo
+#EXTINF:-1 tvg-logo="http://www.lamac.org/res/channels/logos/_0031_natgeo.png",Natgeo
 http://209.126.116.177:2086/405Natgeo/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 
-#EXTINF:-1,TNT Series
+#EXTINF:-1 tvg-logo="http://iparatodos.com.ar/uploads/canal/imagenes/TNTSERIES.png",TNT Series
 http://209.126.116.177:2086/205TNTSE/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 
-#EXTINF:-1,Disney XD
+#EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20130825175902/boneheads/images/archive/6/63/20131230174542!Disney_XD.png",Disney XD
 http://23.237.22.2:8080/lstream4/107/14/654681644949e1a53be8493e2112723e/322.flv
 
-#EXTINF:-1,AZTECA PLUS
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-L5B3MDU64Zg/WPPWiD4lq9I/AAAAAAAABJo/RetlYif3Sxcam-Y9Sd2ySed5Z2PVBUS5gCLcB/s1600/aztecaplus.jpg",AZTECA PLUS
 https://goo.gl/N5zZqP
 
-#EXTINF:-1,TDN
+#EXTINF:-1 tvg-logo="http://www.ipuntotv.com/IMAGES/TDN-logo.png",TDN
 http://stdephds-lh.akamaihd.net/i/ad3pst02hds_1@335205/master.m3u8
 
-#EXTINF:-1,Directv Sports 
+#EXTINF:-1 tvg-logo="http://www.canalvivo.com.ar/wp-content/uploads/2013/06/directv.jpg",Directv Sports 
 https://live92.vkuserlive.com/613504/live/0xhZ4rlAf6VMS1EW/playlist.m3u8
 
 
-#EXTINF:-1,Los Simpson 24/7
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-f63pjyV0WOc/V2t4qAK-LLI/AAAAAAAAAqE/ue-fTCFJRSQB83AVU0WUoc-jz2NnJmZwACLcB/s320/lossimpson123.png",Los Simpson 24/7
 http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8?iptvgratis?chile.m3u8
 
-#EXTINF:-1,Gravity Falls 24/7
+#EXTINF:-1 tvg-logo="http://lacovacha.mx/wp-content/uploads/2015/04/gravity-falls-referencias.jpg",Gravity Falls 24/7
 http://stream.latino-webtv.com/series/gravityfalls.mp4
 
-#EXTINF:-1,FX
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/ar_fx_m.png",FX
 http://209.126.116.177:2086/207FXLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 
-#EXTINF:-1,Discovery Channel
+#EXTINF:-1 tvg-logo="http://www.mejorescanales.com/wp-content/uploads/2016/02/Discovery_Channel_2000.png",Discovery Channel
 http://209.126.116.177:2086/402discoverychannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 
-#EXTINF:-1,Cartoon Network
-http://209.126.116.177:2086/307CartoonNetwork/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
- 
-#EXTINF:-1,Disney Junior
-http://live.tvplayerlatino.com/streaming/src1/BOgKm?58afba
-
-#EXTINF:-1,SYFY
-http://209.126.116.177:2086/204SyFyLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
- 
-#EXTINF:-1,SYFY Latino
-http://209.126.116.177:2086/204SyFyLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-
-#EXTINF:-1,Universal
-http://209.126.116.177:2086/206Studio/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
- 
-#EXTINF:-1,Warner
-http://209.126.116.177:2086/210WarnerChannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-
-#EXTINF:-1,Las Estrellas
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
-
-#EXTINF:1,Multimedios Monterrey
-http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:1,Las Estrellas Latinoamerica
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1,Animal Planet
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/373.flv
-
-#EXTINF:-1,Edge
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/436.flv
-
-#EXTINF:-1,Discovery Channel
+#EXTINF:-1 tvg-logo="IMAGEN",#EXTINF:-1 tvg-logo="http://www.mejorescanales.com/wp-content/uploads/2016/02/Discovery_Channel_2000.png",Discovery Channel opc2
 http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/371.flv
 
-#EXTINF:-1 ,Universal Channel
-http://209.126.116.177:2086/203Universal/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.cartoonnetwork.com/static/images/global/ogLogo.png",Cartoon Network
+http://209.126.116.177:2086/307CartoonNetwork/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.mejorescanales.com/wp-content/uploads/2016/02/DJr_Hero_Logo_Small_TM.png",Disney Junior
+http://live.tvplayerlatino.com/streaming/src1/BOgKm?58afba
 
-#EXTINF:-1,AZTECA 13
+#EXTINF:-1 tvg-logo="http://internet.alfasurtfibraoptica.com/wp-content/uploads/2016/07/Syfy-logo.png",SYFY
+http://209.126.116.177:2086/204SyFyLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://internet.alfasurtfibraoptica.com/wp-content/uploads/2016/07/Syfy-logo.png",SYFY Latino
+http://209.126.116.177:2086/204SyFyLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-UK4seMrsBY4/VnbqEjyjpyI/AAAAAAAAAgU/oWdu5DtkgOw/s1600/universal-hd.png",Universal
+http://209.126.116.177:2086/206Studio/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-WH-_Jix9qBM/TfoElj0cUiI/AAAAAAAAPu0/P6LNXB0nQdU/s1600/wb-hd.png",Warner
+http://209.126.116.177:2086/210WarnerChannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_01/large.5885442634ba9_LasEstrellas2017.png.8cfec00b80c50f7a4c1e6ee6b77e40a2.png",Las Estrellas
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cosmocable.mx/imgs/canales/multimedios.png",Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_01/large.5885442634ba9_LasEstrellas2017.png.8cfec00b80c50f7a4c1e6ee6b77e40a2.png",Las Estrellas Latinoamerica
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_08/large.animalplanethd.png.f733327e29472ff87fbf9ade1b3e9e76.png",Animal Planet
+http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/373.flv
+
+#EXTINF:-1 tvg-logo="http://www.cablevision.com.mx/contenido/portal/paginas/monterrey2/hd-altadefinicion/canales/golden_hd.png",Edge
+http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/436.flv
+
+#EXTINF:-1 tvg-logo="http://cdn.kaltura.com/p/0/thumbnail/entry_id/0_oyesckcn/quality/100/height/517/width/920/vid_sec/2.jpg",AZTECA 13
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_1_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1,Foro TV
+#EXTINF:-1 tvg-logo="http://images.wikia.com/logopedia/images/c/c3/ForoTV.png",Foro TV
 http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
 
-#EXTINF:-1,Milenio
+#EXTINF:-1 tvg-logo="https://www.avaya.com/es/images/milenio_logo_430x450.jpg",Milenio
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 
-#EXTINF:-1, RT Español [HD]
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-z391X3IQmhI/VrJFiEZp59I/AAAAAAAADi0/J21wswxa3_o/h250/RT%2BEspa%25C3%25B1ol.png", RT Español [HD]
 http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index.m3u8
 
-#EXTINF:-1,Todo Deportes
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/teledeporte-en-directo-online.png",Todo Deportes
 http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8?iptvgratis?chile.m3u8
 
-#EXTINF:-1,Top Latino
+#EXTINF:-1 tvg-logo="http://www.liveradio.ie/files/images/119710/resized/180x172c/logo_toplatino_300x300.jpg",Top Latino
 http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w1282322208.m3u8
 
-#EXTINF:-1,Melody Channel
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/2a0002c.png",Melody Channel
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
 
-#EXTINF:-1,Telemusica HD
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/nl-ZvhOZLyRvqt4LrCEcqARtF37kt6ZOMlvm2Jya0EfQmwfiiFZuYmnmQ57Y5J9P8tz-=w300",Telemusica HD
 http://186.155.200.118:1935/live/telemusica/chunklist_w1713664263.m3u8?iptvgratis?chile.m3u8
 
-#EXTINF:-1,ANTENA 3
+#EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/inline/images/logo_antena3_antes.jpg",ANTENA 3
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
  
-#EXTINF:-1,America Tv
+#EXTINF:-1 tvg-logo="http://www.visionperuanatv.org/wp-content/uploads/2014/12/america-tv.png",America Tv
 http://cdn-zc-lsd-3.planisys.net:1935/TV9/smil:tv9live.smil/master.m3u8 
  
-#EXTINF:-1,Rock Nacional TV
+#EXTINF:-1 tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/597/250",Rock Nacional TV
 http://stmv4.questreaming.com/questreaming/questreaming/playlist.m3u8
 
-#EXTINF:-1,TV Más
+#EXTINF:-1 tvg-logo="data:image/png;base64,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",TV Más
 http://50.7.98.234:1935/rtv/videortv/playlist.m3u
  
-#EXTINF:-1,Unicanal
+#EXTINF:-1 tvg-logo="http://grupojbb.com/img/empresas/unicanal-logo.png",Unicanal
 http://strm.unicanal.com.py/live/unicanal_src.m3u8
  
-#EXTINF:-1,Euronews Español
+#EXTINF:-1 tvg-logo="http://s2.dmcdn.net/XVzq3/240x240-n4g.png",Euronews Español
 http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/24-live.m3u8
  
-#EXTINF:-1,Canal Claro
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/sv_canal-claro_m.png",Canal Claro
 http://canalclaro-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(CANAL_CLARO)/index.m3u8
 
-#EXTINF:-1,POWER HD
+#EXTINF:-1 tvg-logo="IMAGEN",POWER HD
 http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
 
-#EXTINF:-1,UNI TV
+#EXTINF:-1 tvg-logo="http://www.canaluno.com.co/sites/all/themes/senalcolombia/images/favicon/apple-icon.png",UNI TV
 http://strm.unicanal.com.py/live/unicanal.m3u8
 
-#EXTINF:-1,TELERED
+#EXTINF:-1 tvg-logo="https://www.telered.com.ar/img/logo400x400.png",TELERED
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
 
-#EXTINF:-1,Disney Channel
+#EXTINF:-1 tvg-logo="http://www.mejorescanales.com/wp-content/uploads/2016/02/disney-channel-hd.png",Disney Channel
 http://23.237.22.2:8080/lstream4/104/14/654681644949e1a53be8493e2112723e/312.flv
 
 #EXTINF:-1 tvg-logo="http://gamesentretenimiento.ml/LOGo.png",CREADOR G67
