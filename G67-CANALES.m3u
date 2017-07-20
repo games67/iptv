@@ -48,6 +48,9 @@ https://live92.vkuserlive.com/613504/live/0xhZ4rlAf6VMS1EW/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-f63pjyV0WOc/V2t4qAK-LLI/AAAAAAAAAqE/ue-fTCFJRSQB83AVU0WUoc-jz2NnJmZwACLcB/s320/lossimpson123.png",Los Simpson 24/7
 http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8?iptvgratis?chile.m3u8
 
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-f63pjyV0WOc/V2t4qAK-LLI/AAAAAAAAAqE/ue-fTCFJRSQB83AVU0WUoc-jz2NnJmZwACLcB/s320/lossimpson123.png",Los Simpson 24/7 opc2
+http://stream.latino-webtv.com/series/simpsons.mp4
+
 #EXTINF:-1 tvg-logo="http://lacovacha.mx/wp-content/uploads/2015/04/gravity-falls-referencias.jpg",Gravity Falls 24/7
 http://stream.latino-webtv.com/series/gravityfalls.mp4
 
@@ -67,8 +70,8 @@ http://209.126.116.177:2086/307CartoonNetwork/android/chunk_Auth=ix08xZ%5E@6Qg7x
 http://live.tvplayerlatino.com/streaming/src1/BOgKm?58afba
 
 #EXTINF:-1 tvg-logo="http://internet.alfasurtfibraoptica.com/wp-content/uploads/2016/07/Syfy-logo.png",SYFY
-http://209.126.116.177:2086/204SyFyLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
- 
+http://209.126.116.177:2086/204SyFyLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8 
+
 #EXTINF:-1 tvg-logo="http://internet.alfasurtfibraoptica.com/wp-content/uploads/2016/07/Syfy-logo.png",SYFY Latino
 http://209.126.116.177:2086/204SyFyLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 
